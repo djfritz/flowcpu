@@ -17,9 +17,7 @@ The included program in memory.csv is a simple "Hello world!" loop that writes t
 
 # To setup
 
-Quick version - just load the included backup file and enable the schedule on all the flows.
-
-Less quick version - Load each of the flow JSON blobs, as well as each of the csv files as resources (named by their filename, eg "memory.csv" should be named "memory"). Then schedule all the flows.
+Load each of the flow JSON blobs, as well as each of the csv files as resources (named by their filename, eg "memory.csv" should be named "memory"). Then schedule all the flows.
 
 # To reset
 
